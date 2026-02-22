@@ -285,14 +285,14 @@ Korenie
 #
 
 Kvások:
-100 ml mlieko
-1/2 ks čerstvé droždie
-2 ČL kryštálový cukor
+150 ml mlieko
+3/4 ks čerstvé droždie
+3 ČL kryštálový cukor
 Cesto:
-400 g polohrubá múka
-100 ml olej
-200 ml mlieko
-1 ČL soľ
+600 g polohrubá múka
+150 ml olej
+300 ml mlieko
+1,5 ČL soľ
 Lekvár 
 
 Kvások: Vlažné mlieko, droždie a cukor spolu zmiešame. Necháme na teplom mieste 20 min..
@@ -407,6 +407,7 @@ Pokvapkáme olivovým olejom a spolu s papierom na pečenie (pomocou drevenej do
 Pečieme na maximum (250–300 °C), so zapnutým grilom približne 6-8 minút. 
 
 Po upečení pridáme na pizzu čerstvú bazalku, kúsky mozzarelly a pokvapkáme olivovým olejom.
+
 
 
 #
