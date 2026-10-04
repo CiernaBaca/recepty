@@ -54,7 +54,9 @@ Nakrájajte si zemiaky a v panvici na strednom až vyššom ohni (10-11 stupeň 
 
 V miske si zmiešajte tymián, rozmarín, oregano a drvené čili papričky. V tej istej panvici kde ste sa robili zemiaky si teraz roztopte zvyšné maslo(28g), pridajte pripravené koreniny a prelisovaný cesnak. Nakrájané kúsky mäsa poukladajte na rozohriatu panvicu a pečte asi 1 minútu na kazdej strane.
 <beef-and-potatoes-recipe.webp>
+
 #
+
 Recept na 4 porcie
 1,2kg kuracích krídel
 1 polievková lyžica soli
@@ -581,7 +583,7 @@ Potom pridáme kapustu, 500 ml vody a 1 PL ocot. Premiešame a pod pokrievkou na
 
 #
 
-Marináda 
+Marináda: 
 500g kuracie stehná 
 2 Pl biely jogurt
 1 čl mletá rímska rasca
@@ -593,7 +595,7 @@ Marináda
 1 čl cesnak
 1 čl soľ
 
-Na omáčku
+Na omáčku:
 1,5 Pl ghee maslo
 2 Pl (30 g) masla (na záver)
 70 g cibuľa
